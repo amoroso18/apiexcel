@@ -1,0 +1,319 @@
+codigo_venta,vendedor,Nombre_vendedor,Fecha_venta,precio,Comprador,Tienda,descuento,item,estado,hora,precio_final,anio,dia,mes
+AB0001,VE001,El panzas,10/15/2020,"$2,133.00",Carmen,Lleida,$50.00,electrodomesticos,activo,13:30,"$2,083.00",2020,15,10
+AB0002,VE002,Senio Pepe,10/16/2020,"$1,945.00",Pedro,Girona,$150.00,muebles,activo,15:30,"$1,795.00",2020,16,10
+AB0003,VE003,Don Augusto,10/17/2020,$712.00,Joaqu¡n,Girona,$25.00,juego de sala,activo,16:30,$687.00,2020,17,10
+AB0004,VE004,Sra Marta,10/18/2020,$181.00,Jes£s,Girona,$100.00,juego cocina,activo,16:31,$81.00,2020,18,10
+AB0005,VE005,Jorgito,10/19/2020,$150.00,Mar¡a,Tarragona,$50.00,friobar,activo,16:32,$100.00,2020,19,10
+AB0006,VE006,alcatraz,10/20/2020,"$9,531.00",Pedro,Girona,$150.00,paquete de televisor,activo,16:33,"$9,381.00",2020,20,10
+AB0007,VE007,Alonso,10/21/2020,"$2,133.00",Pedro,Tarragona,$25.00,electrodomesticos,activo,16:34,"$2,108.00",2020,21,10
+AB0008,VE008,Jaesen,10/22/2020,"$1,945.00",Jes£s,Girona,$100.00,muebles,activo,16:35,"$1,845.00",2020,22,10
+AB0009,VE009,Joddy,10/23/2020,$712.00,Jes£s,Lleida,$50.00,juego de sala,activo,16:36,$662.00,2020,23,10
+AB0010,VE010,Hugo,10/24/2020,$181.00,Joaqu¡n,Lleida,$150.00,juego cocina,activo,16:37,$31.00,2020,24,10
+AB0011,VE011,Hoster,10/25/2020,$113.00,Pedro,Girona,$25.00,friobar,activo,16:38,$88.00,2020,25,10
+AB0012,VE001,El panzas,10/26/2020,"$9,531.00",Carmen,Girona,$100.00,paquete de televisor,activo,16:39,"$9,431.00",2020,26,10
+AB0013,VE002,Senio Pepe,10/27/2020,"$2,133.00",Jes£s,Barcelona,$50.00,electrodomesticos,activo,16:40,"$2,083.00",2020,27,10
+AB0014,VE003,Don Augusto,10/15/2020,"$1,945.00",Carmen,Tarragona,$150.00,muebles,activo,16:41,"$1,795.00",2020,15,10
+AB0015,VE004,Sra Marta,10/16/2020,$712.00,Pedro,Girona,$25.00,juego de sala,activo,16:42,$687.00,2020,16,10
+AB0016,VE005,Jorgito,10/17/2020,$181.00,Carmen,Girona,$100.00,juego cocina,activo,16:43,$81.00,2020,17,10
+AB0017,VE006,alcatraz,10/18/2020,$113.00,Luisa,Tarragona,$50.00,friobar,activo,16:44,$63.00,2020,18,10
+AB0018,VE007,Alonso,10/19/2020,"$9,531.00",Carmen,Barcelona,$150.00,paquete de televisor,activo,16:45,"$9,381.00",2020,19,10
+AB0019,VE008,Jaesen,10/20/2020,"$2,133.00",Luisa,Girona,$25.00,electrodomesticos,activo,16:46,"$2,108.00",2020,20,10
+AB0020,VE009,Joddy,10/21/2020,"$1,945.00",Mar¡a,Barcelona,$100.00,muebles,activo,16:47,"$1,845.00",2020,21,10
+AB0021,VE010,Hugo,10/22/2020,$712.00,Carmen,Girona,$50.00,juego de sala,activo,16:48,$662.00,2020,22,10
+AB0022,VE011,Hoster,10/23/2020,$181.00,Pedro,Girona,$150.00,juego cocina,activo,16:49,$31.00,2020,23,10
+AB0023,VE001,El panzas,10/24/2020,$113.00,Luisa,Barcelona,$25.00,friobar,activo,16:50,$88.00,2020,24,10
+AB0024,VE002,Senio Pepe,10/25/2020,"$9,531.00",Joaqu¡n,Tarragona,$100.00,paquete de televisor,activo,16:51,"$9,431.00",2020,25,10
+AB0025,VE003,Don Augusto,10/26/2020,"$2,133.00",Carmen,Girona,$50.00,electrodomesticos,activo,16:52,"$2,083.00",2020,26,10
+AB0026,VE004,Sra Marta,10/27/2020,"$1,945.00",Pedro,Girona,$150.00,muebles,activo,16:53,"$1,795.00",2020,27,10
+AB0027,VE005,Jorgito,10/15/2020,$712.00,Luisa,Tarragona,$25.00,juego de sala,activo,16:54,$687.00,2020,15,10
+AB0028,VE006,alcatraz,10/16/2020,$181.00,Joaqu¡n,Barcelona,$100.00,juego cocina,activo,16:55,$81.00,2020,16,10
+AB0029,VE007,Alonso,10/17/2020,$113.00,Carmen,Girona,$50.00,friobar,activo,16:56,$63.00,2020,17,10
+AB0030,VE008,Jaesen,10/18/2020,"$9,531.00",Pedro,Barcelona,$150.00,paquete de televisor,activo,16:57,"$9,381.00",2020,18,10
+AB0031,VE009,Joddy,10/19/2020,"$2,133.00",Luisa,Girona,$25.00,electrodomesticos,activo,16:58,"$2,108.00",2020,19,10
+AB0032,VE010,Hugo,10/20/2020,"$1,945.00",Joaqu¡n,Barcelona,$100.00,muebles,activo,16:59,"$1,845.00",2020,20,10
+AB0033,VE011,Hoster,10/21/2020,$712.00,Carmen,Girona,$50.00,juego de sala,activo,17:00,$662.00,2020,21,10
+AB0034,VE001,El panzas,10/22/2020,$181.00,Pedro,Barcelona,$150.00,juego cocina,activo,17:01,$31.00,2020,22,10
+AB0035,VE002,Senio Pepe,10/23/2020,$113.00,Luisa,Girona,$25.00,friobar,activo,17:02,$88.00,2020,23,10
+AB0036,VE003,Don Augusto,10/24/2020,"$9,531.00",Joaqu¡n,Barcelona,$100.00,paquete de televisor,activo,17:03,"$9,431.00",2020,24,10
+AB0037,VE004,Sra Marta,10/25/2020,"$2,133.00",Carmen,Lleida,$50.00,electrodomesticos,activo,17:04,"$2,083.00",2020,25,10
+AB0038,VE005,Jorgito,10/26/2020,"$1,945.00",Pedro,Girona,$150.00,muebles,activo,17:05,"$1,795.00",2020,26,10
+AB0039,VE006,alcatraz,10/27/2020,$712.00,Joaqu¡n,Girona,$25.00,juego de sala,activo,17:06,$687.00,2020,27,10
+AB0040,VE007,Alonso,10/15/2020,$181.00,Jes£s,Girona,$100.00,juego cocina,activo,17:07,$81.00,2020,15,10
+AB0041,VE008,Jaesen,10/16/2020,$113.00,Mar¡a,Tarragona,$50.00,friobar,activo,17:08,$63.00,2020,16,10
+AB0042,VE009,Joddy,10/17/2020,"$9,531.00",Pedro,Girona,$150.00,paquete de televisor,activo,17:09,"$9,381.00",2020,17,10
+AB0043,VE010,Hugo,10/18/2020,"$2,133.00",Pedro,Tarragona,$25.00,electrodomesticos,activo,17:35,"$2,108.00",2020,18,10
+AB0044,VE011,Hoster,10/19/2020,"$1,945.00",Jes£s,Girona,$100.00,muebles,activo,17:36,"$1,845.00",2020,19,10
+AB0045,VE001,El panzas,10/20/2020,$712.00,Jes£s,Lleida,$50.00,juego de sala,activo,17:37,$662.00,2020,20,10
+AB0046,VE002,Senio Pepe,10/21/2020,$181.00,Joaqu¡n,Lleida,$150.00,juego cocina,activo,17:38,$31.00,2020,21,10
+AB0047,VE003,Don Augusto,10/22/2020,$113.00,Pedro,Girona,$25.00,friobar,activo,17:39,$88.00,2020,22,10
+AB0048,VE004,Sra Marta,10/23/2020,"$9,531.00",Carmen,Girona,$100.00,paquete de televisor,activo,17:40,"$9,431.00",2020,23,10
+AB0049,VE005,Jorgito,10/24/2020,"$2,133.00",Jes£s,Barcelona,$50.00,electrodomesticos,activo,17:41,"$2,083.00",2020,24,10
+AB0050,VE006,alcatraz,10/25/2020,"$1,945.00",Carmen,Tarragona,$150.00,muebles,activo,17:42,"$1,795.00",2020,25,10
+AB0051,VE007,Alonso,10/26/2020,$712.00,Pedro,Girona,$25.00,juego de sala,activo,17:43,$687.00,2020,26,10
+AB0052,VE008,Jaesen,10/27/2020,$181.00,Carmen,Girona,$100.00,juego cocina,activo,17:44,$81.00,2020,27,10
+AB0053,VE009,Joddy,10/15/2020,$113.00,Luisa,Tarragona,$50.00,friobar,activo,17:45,$63.00,2020,15,10
+AB0054,VE010,Hugo,10/16/2020,"$9,531.00",Carmen,Barcelona,$150.00,paquete de televisor,activo,17:46,"$9,381.00",2020,16,10
+AB0055,VE011,Hoster,10/17/2020,"$2,133.00",Luisa,Girona,$25.00,electrodomesticos,activo,17:47,"$2,108.00",2020,17,10
+AB0056,VE001,El panzas,10/18/2020,"$1,945.00",Mar¡a,Barcelona,$100.00,muebles,activo,17:48,"$1,845.00",2020,18,10
+AB0057,VE002,Senio Pepe,10/19/2020,$712.00,Carmen,Girona,$50.00,juego de sala,activo,17:49,$662.00,2020,19,10
+AB0058,VE003,Don Augusto,10/20/2020,$181.00,Pedro,Girona,$150.00,juego cocina,activo,17:50,$31.00,2020,20,10
+AB0059,VE004,Sra Marta,10/21/2020,$113.00,Luisa,Barcelona,$25.00,friobar,activo,17:51,$88.00,2020,21,10
+AB0060,VE005,Jorgito,10/22/2020,"$9,531.00",Joaqu¡n,Tarragona,$100.00,paquete de televisor,activo,17:52,"$9,431.00",2020,22,10
+AB0061,VE006,alcatraz,10/23/2020,"$2,133.00",Carmen,Girona,$50.00,electrodomesticos,activo,17:53,"$2,083.00",2020,23,10
+AB0062,VE007,Alonso,10/24/2020,"$1,945.00",Pedro,Girona,$150.00,muebles,activo,17:54,"$1,795.00",2020,24,10
+AB0063,VE008,Jaesen,10/25/2020,$712.00,Luisa,Tarragona,$25.00,juego de sala,activo,16:15,$687.00,2020,25,10
+AB0064,VE009,Joddy,10/26/2020,$181.00,Joaqu¡n,Barcelona,$100.00,juego cocina,activo,16:16,$81.00,2020,26,10
+AB0065,VE010,Hugo,10/27/2020,$113.00,Carmen,Girona,$50.00,friobar,activo,16:17,$63.00,2020,27,10
+AB0066,VE011,Hoster,10/15/2020,"$9,531.00",Pedro,Barcelona,$150.00,paquete de televisor,activo,16:18,"$9,381.00",2020,15,10
+AB0067,VE001,El panzas,10/16/2020,"$2,133.00",Luisa,Girona,$25.00,electrodomesticos,activo,16:19,"$2,108.00",2020,16,10
+AB0068,VE002,Senio Pepe,10/17/2020,"$1,945.00",Joaqu¡n,Barcelona,$100.00,muebles,activo,16:20,"$1,845.00",2020,17,10
+AB0069,VE003,Don Augusto,10/18/2020,$712.00,Carmen,Girona,$50.00,juego de sala,activo,16:21,$662.00,2020,18,10
+AB0070,VE004,Sra Marta,10/19/2020,$181.00,Pedro,Barcelona,$150.00,juego cocina,activo,16:22,$31.00,2020,19,10
+AB0071,VE005,Jorgito,10/20/2020,$113.00,Luisa,Girona,$25.00,friobar,activo,16:23,$88.00,2020,20,10
+AB0072,VE006,alcatraz,10/21/2020,"$9,531.00",Joaqu¡n,Barcelona,$100.00,paquete de televisor,activo,16:24,"$9,431.00",2020,21,10
+AB0073,VE007,Alonso,10/22/2020,"$2,133.00",Carmen,Lleida,$50.00,electrodomesticos,activo,16:25,"$2,083.00",2020,22,10
+AB0074,VE008,Jaesen,10/23/2020,"$1,945.00",Pedro,Girona,$150.00,muebles,activo,16:26,"$1,795.00",2020,23,10
+AB0075,VE009,Joddy,10/24/2020,$712.00,Joaqu¡n,Girona,$25.00,juego de sala,activo,16:27,$687.00,2020,24,10
+AB0076,VE010,Hugo,10/25/2020,$181.00,Jes£s,Girona,$100.00,juego cocina,activo,16:28,$81.00,2020,25,10
+AB0077,VE011,Hoster,10/26/2020,$113.00,Mar¡a,Tarragona,$50.00,friobar,activo,13:30,$63.00,2020,26,10
+AB0078,VE001,El panzas,10/27/2020,"$9,531.00",Pedro,Girona,$150.00,paquete de televisor,activo,15:30,"$9,381.00",2020,27,10
+AB0079,VE002,Senio Pepe,10/15/2020,"$2,133.00",Pedro,Tarragona,$25.00,electrodomesticos,activo,16:30,"$2,108.00",2020,15,10
+AB0080,VE003,Don Augusto,10/16/2020,"$1,945.00",Jes£s,Girona,$100.00,muebles,activo,16:31,"$1,845.00",2020,16,10
+AB0081,VE004,Sra Marta,10/17/2020,$712.00,Jes£s,Lleida,$50.00,juego de sala,activo,16:32,$662.00,2020,17,10
+AB0082,VE005,Jorgito,10/18/2020,$181.00,Joaqu¡n,Lleida,$150.00,juego cocina,activo,16:33,$31.00,2020,18,10
+AB0083,VE006,alcatraz,10/19/2020,$113.00,Pedro,Girona,$25.00,friobar,activo,16:34,$88.00,2020,19,10
+AB0084,VE007,Alonso,10/20/2020,"$9,531.00",Carmen,Girona,$100.00,paquete de televisor,activo,16:35,"$9,431.00",2020,20,10
+AB0085,VE008,Jaesen,10/21/2020,"$2,133.00",Jes£s,Barcelona,$50.00,electrodomesticos,activo,16:36,"$2,083.00",2020,21,10
+AB0086,VE009,Joddy,10/22/2020,"$1,945.00",Carmen,Tarragona,$150.00,muebles,activo,16:37,"$1,795.00",2020,22,10
+AB0087,VE010,Hugo,10/23/2020,$712.00,Pedro,Girona,$25.00,juego de sala,activo,16:38,$687.00,2020,23,10
+AB0088,VE011,Hoster,10/24/2020,$181.00,Carmen,Girona,$100.00,juego cocina,activo,16:39,$81.00,2020,24,10
+AB0089,VE001,El panzas,10/25/2020,$113.00,Luisa,Tarragona,$50.00,friobar,activo,16:40,$63.00,2020,25,10
+AB0090,VE002,Senio Pepe,10/26/2020,"$9,531.00",Carmen,Barcelona,$150.00,paquete de televisor,activo,16:41,"$9,381.00",2020,26,10
+AB0091,VE003,Don Augusto,10/27/2020,"$2,133.00",Luisa,Girona,$25.00,electrodomesticos,activo,16:42,"$2,108.00",2020,27,10
+AB0092,VE004,Sra Marta,10/15/2020,"$1,945.00",Mar¡a,Barcelona,$100.00,muebles,activo,16:43,"$1,845.00",2020,15,10
+AB0093,VE005,Jorgito,10/16/2020,$712.00,Carmen,Girona,$50.00,juego de sala,activo,16:44,$662.00,2020,16,10
+AB0094,VE006,alcatraz,10/17/2020,$181.00,Pedro,Girona,$150.00,juego cocina,activo,16:45,$31.00,2020,17,10
+AB0095,VE007,Alonso,10/18/2020,$113.00,Luisa,Barcelona,$25.00,friobar,activo,16:46,$88.00,2020,18,10
+AB0096,VE008,Jaesen,10/19/2020,"$9,531.00",Joaqu¡n,Tarragona,$100.00,paquete de televisor,activo,16:47,"$9,431.00",2020,19,10
+AB0097,VE009,Joddy,10/20/2020,"$2,133.00",Carmen,Girona,$50.00,electrodomesticos,activo,16:48,"$2,083.00",2020,20,10
+AB0098,VE010,Hugo,10/21/2020,"$1,945.00",Pedro,Girona,$150.00,muebles,activo,16:49,"$1,795.00",2020,21,10
+AB0099,VE011,Hoster,10/22/2020,$712.00,Luisa,Tarragona,$25.00,juego de sala,activo,16:50,$687.00,2020,22,10
+AB0100,VE001,El panzas,10/23/2020,$181.00,Joaqu¡n,Barcelona,$100.00,juego cocina,activo,16:51,$81.00,2020,23,10
+AB0101,VE002,Senio Pepe,10/24/2020,$113.00,Carmen,Girona,$50.00,friobar,activo,16:52,$63.00,2020,24,10
+AB0102,VE003,Don Augusto,10/25/2020,"$9,531.00",Pedro,Barcelona,$150.00,paquete de televisor,activo,16:53,"$9,381.00",2020,25,10
+AB0103,VE004,Sra Marta,10/26/2020,"$2,133.00",Luisa,Girona,$25.00,electrodomesticos,activo,16:54,"$2,108.00",2020,26,10
+AB0104,VE005,Jorgito,10/27/2020,"$1,945.00",Joaqu¡n,Barcelona,$100.00,muebles,activo,16:55,"$1,845.00",2020,27,10
+AB0105,VE006,alcatraz,10/15/2020,$712.00,Carmen,Girona,$50.00,juego de sala,activo,16:56,$662.00,2020,15,10
+AB0106,VE007,Alonso,10/16/2020,$181.00,Pedro,Barcelona,$150.00,juego cocina,activo,16:57,$31.00,2020,16,10
+AB0107,VE008,Jaesen,10/17/2020,$113.00,Luisa,Girona,$25.00,friobar,activo,16:58,$88.00,2020,17,10
+AB0108,VE009,Joddy,10/18/2020,"$9,531.00",Joaqu¡n,Barcelona,$100.00,paquete de televisor,activo,16:59,"$9,431.00",2020,18,10
+AB0109,VE010,Hugo,10/19/2020,"$2,133.00",Carmen,Lleida,$50.00,electrodomesticos,activo,17:00,"$2,083.00",2020,19,10
+AB0110,VE011,Hoster,10/20/2020,"$1,945.00",Pedro,Girona,$150.00,muebles,activo,17:01,"$1,795.00",2020,20,10
+AB0111,VE001,El panzas,10/21/2020,$712.00,Joaqu¡n,Girona,$25.00,juego de sala,activo,17:02,$687.00,2020,21,10
+AB0112,VE002,Senio Pepe,10/22/2020,$181.00,Jes£s,Girona,$100.00,juego cocina,activo,17:03,$81.00,2020,22,10
+AB0113,VE003,Don Augusto,10/23/2020,$113.00,Mar¡a,Tarragona,$50.00,friobar,activo,17:04,$63.00,2020,23,10
+AB0114,VE004,Sra Marta,10/24/2020,"$9,531.00",Pedro,Girona,$150.00,paquete de televisor,activo,17:05,"$9,381.00",2020,24,10
+AB0115,VE005,Jorgito,10/25/2020,"$2,133.00",Pedro,Tarragona,$25.00,electrodomesticos,activo,17:06,"$2,108.00",2020,25,10
+AB0116,VE006,alcatraz,10/26/2020,"$1,945.00",Jes£s,Girona,$100.00,muebles,activo,17:07,"$1,845.00",2020,26,10
+AB0117,VE007,Alonso,10/27/2020,$712.00,Jes£s,Lleida,$50.00,juego de sala,activo,17:08,$662.00,2020,27,10
+AB0118,VE008,Jaesen,10/15/2020,$181.00,Joaqu¡n,Lleida,$150.00,juego cocina,activo,17:09,$31.00,2020,15,10
+AB0119,VE009,Joddy,10/16/2020,$113.00,Pedro,Girona,$25.00,friobar,activo,17:35,$88.00,2020,16,10
+AB0120,VE010,Hugo,10/17/2020,"$9,531.00",Carmen,Girona,$100.00,paquete de televisor,activo,17:36,"$9,431.00",2020,17,10
+AB0121,VE011,Hoster,10/18/2020,"$2,133.00",Jes£s,Barcelona,$50.00,electrodomesticos,activo,17:37,"$2,083.00",2020,18,10
+AB0122,VE001,El panzas,10/19/2020,"$1,945.00",Carmen,Tarragona,$150.00,muebles,activo,17:38,"$1,795.00",2020,19,10
+AB0123,VE002,Senio Pepe,10/20/2020,$712.00,Pedro,Girona,$25.00,juego de sala,activo,17:39,$687.00,2020,20,10
+AB0124,VE003,Don Augusto,10/21/2020,$181.00,Carmen,Girona,$100.00,juego cocina,activo,17:40,$81.00,2020,21,10
+AB0125,VE004,Sra Marta,10/22/2020,$113.00,Luisa,Tarragona,$50.00,friobar,activo,17:41,$63.00,2020,22,10
+AB0126,VE005,Jorgito,10/23/2020,"$9,531.00",Carmen,Barcelona,$150.00,paquete de televisor,activo,17:42,"$9,381.00",2020,23,10
+AB0127,VE006,alcatraz,10/24/2020,"$2,133.00",Luisa,Girona,$25.00,electrodomesticos,activo,17:43,"$2,108.00",2020,24,10
+AB0128,VE007,Alonso,10/25/2020,"$1,945.00",Mar¡a,Barcelona,$100.00,muebles,activo,17:44,"$1,845.00",2020,25,10
+AB0129,VE008,Jaesen,10/26/2020,$712.00,Carmen,Girona,$50.00,juego de sala,activo,17:45,$662.00,2020,26,10
+AB0130,VE009,Joddy,10/27/2020,$181.00,Pedro,Girona,$150.00,juego cocina,activo,17:46,$31.00,2020,27,10
+AB0131,VE010,Hugo,10/15/2020,$113.00,Luisa,Barcelona,$25.00,friobar,activo,17:47,$88.00,2020,15,10
+AB0132,VE011,Hoster,10/16/2020,"$9,531.00",Joaqu¡n,Tarragona,$100.00,paquete de televisor,activo,17:48,"$9,431.00",2020,16,10
+AB0133,VE001,El panzas,10/17/2020,"$2,133.00",Carmen,Girona,$50.00,electrodomesticos,activo,17:49,"$2,083.00",2020,17,10
+AB0134,VE002,Senio Pepe,10/18/2020,"$1,945.00",Pedro,Girona,$150.00,muebles,activo,17:50,"$1,795.00",2020,18,10
+AB0135,VE003,Don Augusto,10/19/2020,$712.00,Luisa,Tarragona,$25.00,juego de sala,activo,17:51,$687.00,2020,19,10
+AB0136,VE004,Sra Marta,10/20/2020,$181.00,Joaqu¡n,Barcelona,$100.00,juego cocina,activo,17:52,$81.00,2020,20,10
+AB0137,VE005,Jorgito,10/21/2020,$113.00,Carmen,Girona,$50.00,friobar,activo,17:53,$63.00,2020,21,10
+AB0138,VE006,alcatraz,10/22/2020,"$9,531.00",Pedro,Barcelona,$150.00,paquete de televisor,activo,17:54,"$9,381.00",2020,22,10
+AB0139,VE007,Alonso,10/23/2020,"$2,133.00",Luisa,Girona,$25.00,electrodomesticos,activo,16:15,"$2,108.00",2020,23,10
+AB0140,VE008,Jaesen,10/24/2020,"$1,945.00",Joaqu¡n,Barcelona,$100.00,muebles,activo,16:16,"$1,845.00",2020,24,10
+AB0141,VE009,Joddy,10/25/2020,$712.00,Carmen,Girona,$50.00,juego de sala,activo,16:17,$662.00,2020,25,10
+AB0142,VE010,Hugo,10/26/2020,$181.00,Pedro,Barcelona,$150.00,juego cocina,activo,16:18,$31.00,2020,26,10
+AB0143,VE011,Hoster,10/27/2020,$113.00,Luisa,Girona,$25.00,friobar,activo,16:19,$88.00,2020,27,10
+AB0144,VE001,El panzas,10/15/2020,"$9,531.00",Joaqu¡n,Barcelona,$100.00,paquete de televisor,activo,16:20,"$9,431.00",2020,15,10
+AB0145,VE002,Senio Pepe,10/16/2020,"$2,133.00",Carmen,Lleida,$50.00,electrodomesticos,activo,16:21,"$2,083.00",2020,16,10
+AB0146,VE003,Don Augusto,10/17/2020,"$1,945.00",Pedro,Girona,$150.00,muebles,activo,16:22,"$1,795.00",2020,17,10
+AB0147,VE004,Sra Marta,10/18/2020,$712.00,Joaqu¡n,Girona,$25.00,juego de sala,activo,16:23,$687.00,2020,18,10
+AB0148,VE005,Jorgito,10/19/2020,$181.00,Jes£s,Girona,$100.00,juego cocina,activo,16:24,$81.00,2020,19,10
+AB0149,VE006,alcatraz,10/20/2020,$113.00,Mar¡a,Tarragona,$50.00,friobar,activo,16:25,$63.00,2020,20,10
+AB0150,VE007,Alonso,10/21/2020,"$9,531.00",Pedro,Girona,$150.00,paquete de televisor,activo,16:26,"$9,381.00",2020,21,10
+AB0151,VE008,Jaesen,10/22/2020,"$2,133.00",Pedro,Tarragona,$25.00,electrodomesticos,activo,16:27,"$2,108.00",2020,22,10
+AB0152,VE009,Joddy,10/23/2020,"$1,945.00",Jes£s,Girona,$100.00,muebles,activo,16:28,"$1,845.00",2020,23,10
+AB0153,VE010,Hugo,10/24/2020,$712.00,Jes£s,Lleida,$50.00,juego de sala,activo,13:30,$662.00,2020,24,10
+AB0154,VE011,Hoster,10/25/2020,$181.00,Joaqu¡n,Lleida,$150.00,juego cocina,activo,15:30,$31.00,2020,25,10
+AB0155,VE001,El panzas,10/26/2020,$113.00,Pedro,Girona,$25.00,friobar,activo,16:30,$88.00,2020,26,10
+AB0156,VE002,Senio Pepe,10/27/2020,"$9,531.00",Carmen,Girona,$100.00,paquete de televisor,activo,16:31,"$9,431.00",2020,27,10
+AB0157,VE003,Don Augusto,10/15/2020,"$2,133.00",Jes£s,Barcelona,$50.00,electrodomesticos,activo,16:32,"$2,083.00",2020,15,10
+AB0158,VE004,Sra Marta,10/16/2020,"$1,945.00",Carmen,Tarragona,$150.00,muebles,activo,16:33,"$1,795.00",2020,16,10
+AB0159,VE005,Jorgito,10/17/2020,$712.00,Pedro,Girona,$25.00,juego de sala,activo,16:34,$687.00,2020,17,10
+AB0160,VE006,alcatraz,10/18/2020,$181.00,Carmen,Girona,$100.00,juego cocina,activo,16:35,$81.00,2020,18,10
+AB0161,VE007,Alonso,10/19/2020,$113.00,Luisa,Tarragona,$50.00,friobar,activo,16:36,$63.00,2020,19,10
+AB0162,VE008,Jaesen,10/20/2020,"$9,531.00",Carmen,Barcelona,$150.00,paquete de televisor,activo,16:37,"$9,381.00",2020,20,10
+AB0163,VE009,Joddy,10/21/2020,"$2,133.00",Luisa,Girona,$25.00,electrodomesticos,activo,16:38,"$2,108.00",2020,21,10
+AB0164,VE010,Hugo,10/22/2020,"$1,945.00",Mar¡a,Barcelona,$100.00,muebles,activo,16:39,"$1,845.00",2020,22,10
+AB0165,VE011,Hoster,10/23/2020,$712.00,Carmen,Girona,$50.00,juego de sala,activo,16:40,$662.00,2020,23,10
+AB0166,VE001,El panzas,10/24/2020,$181.00,Pedro,Girona,$150.00,juego cocina,activo,16:41,$31.00,2020,24,10
+AB0167,VE002,Senio Pepe,10/25/2020,$113.00,Luisa,Barcelona,$25.00,friobar,activo,16:42,$88.00,2020,25,10
+AB0168,VE003,Don Augusto,10/26/2020,"$9,531.00",Joaqu¡n,Tarragona,$100.00,paquete de televisor,activo,16:43,"$9,431.00",2020,26,10
+AB0169,VE004,Sra Marta,10/27/2020,"$2,133.00",Carmen,Girona,$50.00,electrodomesticos,activo,16:44,"$2,083.00",2020,27,10
+AB0170,VE005,Jorgito,10/15/2020,"$1,945.00",Pedro,Girona,$150.00,muebles,activo,16:45,"$1,795.00",2020,15,10
+AB0171,VE006,alcatraz,10/16/2020,$712.00,Luisa,Tarragona,$25.00,juego de sala,activo,16:46,$687.00,2020,16,10
+AB0172,VE007,Alonso,10/17/2020,$181.00,Joaqu¡n,Barcelona,$100.00,juego cocina,activo,16:47,$81.00,2020,17,10
+AB0173,VE008,Jaesen,10/18/2020,$113.00,Carmen,Girona,$50.00,friobar,activo,16:48,$63.00,2020,18,10
+AB0174,VE009,Joddy,10/19/2020,"$9,531.00",Pedro,Barcelona,$150.00,paquete de televisor,activo,16:49,"$9,381.00",2020,19,10
+AB0175,VE010,Hugo,10/20/2020,"$2,133.00",Luisa,Girona,$25.00,electrodomesticos,activo,16:50,"$2,108.00",2020,20,10
+AB0176,VE011,Hoster,10/21/2020,"$1,945.00",Joaqu¡n,Barcelona,$100.00,muebles,activo,16:51,"$1,845.00",2020,21,10
+AB0177,VE001,El panzas,10/22/2020,$712.00,Carmen,Girona,$50.00,juego de sala,activo,16:52,$662.00,2020,22,10
+AB0178,VE002,Senio Pepe,10/23/2020,$181.00,Pedro,Barcelona,$150.00,juego cocina,activo,16:53,$31.00,2020,23,10
+AB0179,VE003,Don Augusto,10/24/2020,$113.00,Luisa,Girona,$25.00,friobar,activo,16:54,$88.00,2020,24,10
+AB0180,VE004,Sra Marta,10/25/2020,"$9,531.00",Joaqu¡n,Barcelona,$100.00,paquete de televisor,activo,16:55,"$9,431.00",2020,25,10
+AB0181,VE005,Jorgito,10/26/2020,"$2,133.00",Carmen,Lleida,$50.00,electrodomesticos,activo,16:56,"$2,083.00",2020,26,10
+AB0182,VE006,alcatraz,10/27/2020,"$1,945.00",Pedro,Girona,$150.00,muebles,activo,16:57,"$1,795.00",2020,27,10
+AB0183,VE007,Alonso,10/15/2020,$712.00,Joaqu¡n,Girona,$25.00,juego de sala,activo,16:58,$687.00,2020,15,10
+AB0184,VE008,Jaesen,10/16/2020,$181.00,Jes£s,Girona,$100.00,juego cocina,activo,16:59,$81.00,2020,16,10
+AB0185,VE009,Joddy,10/17/2020,$113.00,Mar¡a,Tarragona,$50.00,friobar,activo,17:00,$63.00,2020,17,10
+AB0186,VE010,Hugo,10/18/2020,"$9,531.00",Pedro,Girona,$150.00,paquete de televisor,activo,17:01,"$9,381.00",2020,18,10
+AB0187,VE011,Hoster,10/19/2020,"$2,133.00",Pedro,Tarragona,$25.00,electrodomesticos,activo,17:02,"$2,108.00",2020,19,10
+AB0188,VE001,El panzas,10/20/2020,"$1,945.00",Jes£s,Girona,$100.00,muebles,activo,17:03,"$1,845.00",2020,20,10
+AB0189,VE002,Senio Pepe,10/21/2020,$712.00,Jes£s,Lleida,$50.00,juego de sala,activo,17:04,$662.00,2020,21,10
+AB0190,VE003,Don Augusto,10/22/2020,$181.00,Joaqu¡n,Lleida,$150.00,juego cocina,activo,17:05,$31.00,2020,22,10
+AB0191,VE004,Sra Marta,10/23/2020,$113.00,Pedro,Girona,$25.00,friobar,activo,17:06,$88.00,2020,23,10
+AB0192,VE005,Jorgito,10/24/2020,"$9,531.00",Carmen,Girona,$100.00,paquete de televisor,activo,17:07,"$9,431.00",2020,24,10
+AB0193,VE006,alcatraz,10/25/2020,"$2,133.00",Jes£s,Barcelona,$50.00,electrodomesticos,activo,17:08,"$2,083.00",2020,25,10
+AB0194,VE007,Alonso,10/26/2020,"$1,945.00",Carmen,Tarragona,$150.00,muebles,activo,17:09,"$1,795.00",2020,26,10
+AB0195,VE008,Jaesen,10/27/2020,$712.00,Pedro,Girona,$25.00,juego de sala,activo,17:35,$687.00,2020,27,10
+AB0196,VE009,Joddy,10/15/2020,$181.00,Carmen,Girona,$100.00,juego cocina,activo,17:36,$81.00,2020,15,10
+AB0197,VE010,Hugo,10/16/2020,$113.00,Luisa,Tarragona,$50.00,friobar,activo,17:37,$63.00,2020,16,10
+AB0198,VE011,Hoster,10/17/2020,"$9,531.00",Carmen,Barcelona,$150.00,paquete de televisor,activo,17:38,"$9,381.00",2020,17,10
+AB0199,VE001,El panzas,10/18/2020,"$2,133.00",Luisa,Girona,$25.00,electrodomesticos,activo,17:39,"$9,431.00",2020,18,10
+AB0200,VE002,Senio Pepe,10/19/2020,"$1,945.00",Mar¡a,Barcelona,$100.00,muebles,activo,17:40,"$1,845.00",2020,19,10
+AB0201,VE003,Don Augusto,10/20/2020,$712.00,Carmen,Girona,$50.00,juego de sala,activo,17:41,$662.00,2020,20,10
+AB0202,VE004,Sra Marta,10/21/2020,$181.00,Pedro,Girona,$150.00,juego cocina,activo,17:42,$31.00,2020,21,10
+AB0203,VE005,Jorgito,10/22/2020,$113.00,Luisa,Barcelona,$25.00,friobar,activo,17:43,$88.00,2020,22,10
+AB0204,VE006,alcatraz,10/23/2020,"$9,531.00",Joaqu¡n,Tarragona,$100.00,paquete de televisor,activo,17:44,"$9,431.00",2020,23,10
+AB0205,VE007,Alonso,10/24/2020,"$2,133.00",Carmen,Girona,$50.00,electrodomesticos,activo,17:45,"$2,083.00",2020,24,10
+AB0206,VE008,Jaesen,10/25/2020,"$1,945.00",Pedro,Girona,$150.00,muebles,activo,17:46,"$1,795.00",2020,25,10
+AB0207,VE009,Joddy,10/26/2020,$712.00,Luisa,Tarragona,$25.00,juego de sala,activo,17:47,$687.00,2020,26,10
+AB0208,VE010,Hugo,10/27/2020,$181.00,Joaqu¡n,Barcelona,$100.00,juego cocina,activo,17:48,$81.00,2020,27,10
+AB0209,VE011,Hoster,10/28/2020,$113.00,Carmen,Girona,$50.00,friobar,activo,17:49,$63.00,2020,28,10
+AB0210,VE001,El panzas,10/29/2020,"$9,531.00",Pedro,Barcelona,$150.00,paquete de televisor,activo,17:50,"$9,381.00",2020,29,10
+AB0211,VE002,Senio Pepe,10/30/2020,"$2,133.00",Luisa,Girona,$25.00,electrodomesticos,activo,17:51,"$2,108.00",2020,30,10
+AB0212,VE003,Don Augusto,10/31/2020,"$1,945.00",Joaqu¡n,Barcelona,$100.00,muebles,activo,17:52,"$1,845.00",2020,31,10
+AB0213,VE004,Sra Marta,10/18/2020,$712.00,Carmen,Girona,$50.00,juego de sala,activo,17:53,$662.00,2020,18,10
+AB0214,VE005,Jorgito,10/19/2020,$181.00,Pedro,Barcelona,$150.00,juego cocina,activo,17:54,$31.00,2020,19,10
+AB0215,VE006,alcatraz,10/20/2020,$113.00,Luisa,Girona,$25.00,friobar,activo,16:15,$88.00,2020,20,10
+AB0216,VE007,Alonso,10/21/2020,"$9,531.00",Joaqu¡n,Barcelona,$100.00,paquete de televisor,activo,16:16,"$9,431.00",2020,21,10
+AB0217,VE008,Jaesen,10/22/2020,"$2,133.00",Carmen,Lleida,$50.00,electrodomesticos,activo,16:17,"$2,083.00",2020,22,10
+AB0218,VE009,Joddy,10/23/2020,"$1,945.00",Pedro,Girona,$150.00,muebles,activo,16:18,"$1,795.00",2020,23,10
+AB0219,VE010,Hugo,10/24/2020,$712.00,Joaqu¡n,Girona,$25.00,juego de sala,activo,16:19,$687.00,2020,24,10
+AB0220,VE011,Hoster,10/25/2020,$181.00,Jes£s,Girona,$100.00,juego cocina,activo,16:20,$81.00,2020,25,10
+AB0221,VE001,El panzas,10/26/2020,$113.00,Mar¡a,Tarragona,$50.00,friobar,activo,16:21,$63.00,2020,26,10
+AB0222,VE002,Senio Pepe,10/27/2020,"$9,531.00",Pedro,Girona,$150.00,paquete de televisor,activo,16:22,"$9,381.00",2020,27,10
+AB0223,VE003,Don Augusto,10/15/2020,"$2,133.00",Pedro,Tarragona,$25.00,electrodomesticos,activo,16:23,"$2,108.00",2020,15,10
+AB0224,VE004,Sra Marta,10/16/2020,"$1,945.00",Jes£s,Girona,$100.00,muebles,activo,16:24,"$1,845.00",2020,16,10
+AB0225,VE005,Jorgito,10/17/2020,$712.00,Jes£s,Lleida,$50.00,juego de sala,activo,16:25,$662.00,2020,17,10
+AB0226,VE006,alcatraz,10/18/2020,$181.00,Joaqu¡n,Lleida,$150.00,juego cocina,activo,16:26,$31.00,2020,18,10
+AB0227,VE007,Alonso,10/19/2020,$113.00,Pedro,Girona,$25.00,friobar,activo,16:27,$88.00,2020,19,10
+AB0228,VE008,Jaesen,10/20/2020,"$9,531.00",Carmen,Girona,$100.00,paquete de televisor,activo,16:28,"$9,431.00",2020,20,10
+AB0229,VE009,Joddy,10/21/2020,"$2,133.00",Jes£s,Barcelona,$50.00,electrodomesticos,activo,13:30,"$2,083.00",2020,21,10
+AB0230,VE010,Hugo,10/22/2020,"$1,945.00",Carmen,Tarragona,$150.00,muebles,activo,15:30,"$1,795.00",2020,22,10
+AB0231,VE011,Hoster,10/23/2020,$712.00,Pedro,Girona,$25.00,juego de sala,activo,16:30,$687.00,2020,23,10
+AB0232,VE001,El panzas,10/24/2020,$181.00,Carmen,Girona,$100.00,juego cocina,activo,16:31,$81.00,2020,24,10
+AB0233,VE002,Senio Pepe,10/25/2020,$113.00,Luisa,Tarragona,$50.00,friobar,activo,16:32,$63.00,2020,25,10
+AB0234,VE003,Don Augusto,10/26/2020,"$9,531.00",Carmen,Barcelona,$150.00,paquete de televisor,activo,16:33,"$9,381.00",2020,26,10
+AB0235,VE004,Sra Marta,10/27/2020,"$2,133.00",Luisa,Girona,$25.00,electrodomesticos,activo,16:34,"$2,108.00",2020,27,10
+AB0236,VE005,Jorgito,10/15/2020,"$1,945.00",Mar¡a,Barcelona,$100.00,muebles,activo,16:35,"$1,845.00",2020,15,10
+AB0237,VE006,alcatraz,10/16/2020,$712.00,Carmen,Girona,$50.00,juego de sala,activo,16:36,$662.00,2020,16,10
+AB0238,VE007,Alonso,10/17/2020,$181.00,Pedro,Girona,$150.00,juego cocina,activo,16:37,$31.00,2020,17,10
+AB0239,VE008,Jaesen,10/18/2020,$113.00,Luisa,Barcelona,$25.00,friobar,activo,16:38,$88.00,2020,18,10
+AB0240,VE009,Joddy,10/19/2020,"$9,531.00",Joaqu¡n,Tarragona,$100.00,paquete de televisor,activo,16:39,"$9,431.00",2020,19,10
+AB0241,VE010,Hugo,10/20/2020,"$2,133.00",Carmen,Girona,$50.00,electrodomesticos,activo,16:40,"$2,083.00",2020,20,10
+AB0242,VE011,Hoster,10/21/2020,"$1,945.00",Pedro,Girona,$150.00,muebles,activo,16:41,"$1,795.00",2020,21,10
+AB0243,VE001,El panzas,10/22/2020,$712.00,Luisa,Tarragona,$25.00,juego de sala,activo,16:42,$687.00,2020,22,10
+AB0244,VE002,Senio Pepe,10/23/2020,$181.00,Joaqu¡n,Barcelona,$100.00,juego cocina,activo,16:43,$81.00,2020,23,10
+AB0245,VE003,Don Augusto,10/24/2020,$113.00,Carmen,Girona,$50.00,friobar,activo,16:44,$63.00,2020,24,10
+AB0246,VE004,Sra Marta,10/25/2020,"$9,531.00",Pedro,Barcelona,$150.00,paquete de televisor,activo,16:45,"$9,381.00",2020,25,10
+AB0247,VE005,Jorgito,10/26/2020,"$2,133.00",Luisa,Girona,$25.00,electrodomesticos,activo,16:46,"$2,108.00",2020,26,10
+AB0248,VE006,alcatraz,10/27/2020,"$1,945.00",Joaqu¡n,Barcelona,$100.00,muebles,activo,16:47,"$1,845.00",2020,27,10
+AB0249,VE007,Alonso,10/15/2020,$712.00,Carmen,Girona,$50.00,juego de sala,activo,16:48,$662.00,2020,15,10
+AB0250,VE008,Jaesen,10/16/2020,$181.00,Pedro,Barcelona,$150.00,juego cocina,activo,16:49,$31.00,2020,16,10
+AB0251,VE009,Joddy,10/17/2020,$113.00,Luisa,Girona,$25.00,friobar,activo,16:50,$88.00,2020,17,10
+AB0252,VE010,Hugo,10/18/2020,"$9,531.00",Joaqu¡n,Barcelona,$100.00,paquete de televisor,activo,16:51,"$9,431.00",2020,18,10
+AB0253,VE011,Hoster,10/19/2020,"$2,133.00",Carmen,Lleida,$50.00,electrodomesticos,activo,16:52,"$2,083.00",2020,19,10
+AB0254,VE001,El panzas,10/20/2020,"$1,945.00",Pedro,Girona,$150.00,muebles,activo,16:53,"$1,795.00",2020,20,10
+AB0255,VE002,Senio Pepe,10/21/2020,$712.00,Joaqu¡n,Girona,$25.00,juego de sala,activo,16:54,$687.00,2020,21,10
+AB0256,VE003,Don Augusto,10/22/2020,$181.00,Jes£s,Girona,$100.00,juego cocina,activo,16:55,$81.00,2020,22,10
+AB0257,VE004,Sra Marta,10/23/2020,$113.00,Mar¡a,Tarragona,$50.00,friobar,activo,16:56,$63.00,2020,23,10
+AB0258,VE005,Jorgito,10/24/2020,"$9,531.00",Pedro,Girona,$150.00,paquete de televisor,activo,16:57,"$9,381.00",2020,24,10
+AB0259,VE006,alcatraz,10/25/2020,"$2,133.00",Pedro,Tarragona,$25.00,electrodomesticos,activo,16:58,"$2,108.00",2020,25,10
+AB0260,VE007,Alonso,10/26/2020,"$1,945.00",Jes£s,Girona,$100.00,muebles,activo,16:59,"$1,845.00",2020,26,10
+AB0261,VE008,Jaesen,10/27/2020,$712.00,Jes£s,Lleida,$50.00,juego de sala,activo,17:00,$662.00,2020,27,10
+AB0262,VE009,Joddy,10/28/2020,$181.00,Joaqu¡n,Lleida,$150.00,juego cocina,activo,17:01,$31.00,2020,28,10
+AB0263,VE010,Hugo,10/29/2020,$113.00,Pedro,Girona,$25.00,friobar,activo,17:02,$88.00,2020,29,10
+AB0264,VE011,Hoster,10/30/2020,"$9,531.00",Carmen,Girona,$100.00,paquete de televisor,activo,17:03,"$9,431.00",2020,30,10
+AB0265,VE001,El panzas,10/31/2020,"$2,133.00",Jes£s,Barcelona,$50.00,electrodomesticos,activo,17:04,"$2,083.00",2020,31,10
+AB0266,VE002,Senio Pepe,10/18/2020,"$1,945.00",Carmen,Tarragona,$150.00,muebles,activo,17:05,"$1,795.00",2020,18,10
+AB0267,VE003,Don Augusto,10/19/2020,$712.00,Pedro,Girona,$25.00,juego de sala,activo,17:06,$687.00,2020,19,10
+AB0268,VE004,Sra Marta,10/20/2020,$181.00,Carmen,Girona,$100.00,juego cocina,activo,17:07,$81.00,2020,20,10
+AB0269,VE005,Jorgito,10/21/2020,$113.00,Luisa,Tarragona,$50.00,friobar,activo,17:08,$63.00,2020,21,10
+AB0270,VE006,alcatraz,10/22/2020,"$9,531.00",Carmen,Barcelona,$150.00,paquete de televisor,activo,17:09,"$9,381.00",2020,22,10
+AB0271,VE007,Alonso,10/23/2020,"$2,133.00",Luisa,Girona,$25.00,electrodomesticos,activo,17:35,"$2,108.00",2020,23,10
+AB0272,VE008,Jaesen,10/24/2020,"$1,945.00",Mar¡a,Barcelona,$100.00,muebles,activo,17:36,"$1,845.00",2020,24,10
+AB0273,VE009,Joddy,10/25/2020,$712.00,Carmen,Girona,$50.00,juego de sala,activo,17:37,$662.00,2020,25,10
+AB0274,VE010,Hugo,10/26/2020,$181.00,Pedro,Girona,$150.00,juego cocina,activo,17:38,$31.00,2020,26,10
+AB0275,VE011,Hoster,10/27/2020,$113.00,Luisa,Barcelona,$25.00,friobar,activo,17:39,$88.00,2020,27,10
+AB0276,VE001,El panzas,10/15/2020,"$9,531.00",Joaqu¡n,Tarragona,$100.00,paquete de televisor,activo,17:40,"$9,431.00",2020,15,10
+AB0277,VE002,Senio Pepe,10/16/2020,"$2,133.00",Carmen,Girona,$50.00,electrodomesticos,activo,17:41,"$2,083.00",2020,16,10
+AB0278,VE003,Don Augusto,10/17/2020,"$1,945.00",Pedro,Girona,$150.00,muebles,activo,17:42,"$1,795.00",2020,17,10
+AB0279,VE004,Sra Marta,10/18/2020,$712.00,Luisa,Tarragona,$25.00,juego de sala,activo,17:43,$687.00,2020,18,10
+AB0280,VE005,Jorgito,10/19/2020,$181.00,Joaqu¡n,Barcelona,$100.00,juego cocina,activo,17:44,$81.00,2020,19,10
+AB0281,VE006,alcatraz,10/20/2020,$113.00,Carmen,Girona,$50.00,friobar,activo,17:45,$63.00,2020,20,10
+AB0282,VE007,Alonso,10/21/2020,"$9,531.00",Pedro,Barcelona,$150.00,paquete de televisor,activo,17:46,"$9,381.00",2020,21,10
+AB0283,VE008,Jaesen,10/22/2020,"$2,133.00",Luisa,Girona,$25.00,electrodomesticos,activo,17:47,"$2,108.00",2020,22,10
+AB0284,VE009,Joddy,10/23/2020,"$1,945.00",Joaqu¡n,Barcelona,$100.00,muebles,activo,17:48,"$1,845.00",2020,23,10
+AB0285,VE010,Hugo,10/24/2020,$712.00,Carmen,Girona,$50.00,juego de sala,activo,17:49,$662.00,2020,24,10
+AB0286,VE011,Hoster,10/25/2020,$181.00,Pedro,Barcelona,$150.00,juego cocina,activo,17:50,$31.00,2020,25,10
+AB0287,VE001,El panzas,10/26/2020,$113.00,Luisa,Girona,$25.00,friobar,activo,17:51,$88.00,2020,26,10
+AB0288,VE002,Senio Pepe,10/27/2020,"$9,531.00",Joaqu¡n,Barcelona,$100.00,paquete de televisor,activo,17:52,"$9,431.00",2020,27,10
+AB0289,VE003,Don Augusto,10/15/2020,"$2,133.00",Carmen,Lleida,$50.00,electrodomesticos,activo,17:53,"$2,083.00",2020,15,10
+AB0290,VE004,Sra Marta,10/16/2020,"$1,945.00",Pedro,Girona,$150.00,muebles,activo,17:54,"$1,795.00",2020,16,10
+AB0291,VE005,Jorgito,10/17/2020,$712.00,Joaqu¡n,Girona,$25.00,juego de sala,activo,16:15,$687.00,2020,17,10
+AB0292,VE006,alcatraz,10/18/2020,$181.00,Jes£s,Girona,$100.00,juego cocina,activo,16:16,$81.00,2020,18,10
+AB0293,VE007,Alonso,10/19/2020,$113.00,Mar¡a,Tarragona,$50.00,friobar,activo,16:17,$63.00,2020,19,10
+AB0294,VE008,Jaesen,10/20/2020,"$9,531.00",Pedro,Girona,$150.00,paquete de televisor,activo,16:18,"$9,381.00",2020,20,10
+AB0295,VE009,Joddy,10/21/2020,"$2,133.00",Pedro,Tarragona,$25.00,electrodomesticos,activo,16:19,"$2,108.00",2020,21,10
+AB0296,VE010,Hugo,10/22/2020,"$1,945.00",Jes£s,Girona,$100.00,muebles,activo,16:20,"$1,845.00",2020,22,10
+AB0297,VE011,Hoster,10/23/2020,$712.00,Jes£s,Lleida,$50.00,juego de sala,activo,16:21,$662.00,2020,23,10
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
